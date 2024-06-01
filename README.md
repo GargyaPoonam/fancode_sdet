@@ -12,17 +12,17 @@ This project contains automated tests to verify that all users from the city 'Fa
 ## Setup and Running the Tests
 
 1. **Clone the repository:**
-    ```sh
-    git clone <repository-url>
-    ```
+ 
+    git clone https://github.com/GargyaPoonam/fancode_sdet.git
+   
 
 2. **Navigate to the project directory:**
-    ```sh
-    cd sdet-assignment
+   
+    cd Fancode.com
     ```
 
 3. **Run the tests using Maven:**
-    ```sh
+    
     mvn test
     ```
 
